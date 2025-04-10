@@ -22,3 +22,7 @@ Install the dependencies:
 
 ```bash
 pip install opencv-python matplotlib
+```
+# 📖 Tutorial
+
+This tutorial demonstrates the basics of image stitching. While OpenCV’s `Stitcher` class essentially performs the same process under the hood—with many more optimizations—it does so more efficiently and effectively.
